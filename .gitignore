@@ -1,0 +1,47 @@
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build output directories
+bin/
+out/
+dist/
+
+# Test binaries and coverage
+*.test
+coverage.out
+
+# Logs
+*.log
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+._.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Swap or temporary files
+*.swp
+*~
+
+# Editor Backup File
+*~
+*.bak
+*.swp
+*.swo
+
+# Version Control
+.git
+.svn
+.git*
+!.gitignore
